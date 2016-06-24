@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 # add by myself
-tmp/*.py[cod]
+#tmp/*.py[cod]
